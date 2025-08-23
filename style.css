@@ -24,3 +24,19 @@ h4 {
     font-size: 0.8em;
     margin-bottom: 0.5em; 
 }
+
+.friend-text {
+  font-size: 0.78rem;
+  color: rgb(227, 214, 26);
+}
+
+.friend-link {
+  color: rgb(227, 214, 26);
+  text-decoration: none;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.friend-link:hover {
+  color: rgb(0, 247, 255);
+  text-decoration: underline;
+}
