@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>
+        <div lang="en">Hey, this is my first website!</div>
+        <div lang="ja">こんにちは、これは私の最初のウェブサイトです！</div>
+    </h1>
+    <h2>About Me:</h2>
+    <h3>
+        <ul type="square">
+            <li>Currently Learning Web Development and Python</li>
+            <li>Connect with me on social media:</li>
+        </ul>
+        <h4>
+            <div class="github-profile-badge" data-user="ujwalmantri"></div>
+            <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+            </div>
+            <br>
+            <div>
+                <a class="twitter-follow-button" href="https://twitter.com/ujwal_mantri">
+                    Follow @ujwal_mantri</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <br>
+            <div><a href="https://stackoverflow.com/users/31332155/ujwal"><img
+                        src="https://stackoverflow.com/users/flair/31332155.png?theme=dark" width="125"
+                        alt="profile for ujwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+                        title="profile for ujwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+            </div>
+            <div><a href="https://math.stackexchange.com/users/1671664/ujwal"><img
+                        src="https://math.stackexchange.com/users/flair/1671664.png?theme=dark" width="125"
+                        alt="profile for ujwal at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"
+                        title="profile for ujwal at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"></a>
+            </div>
+            <div><a href="https://japanese.stackexchange.com/users/73397/ujwal"><img
+                        src="https://japanese.stackexchange.com/users/flair/73397.png?theme=dark" width="125"
+                        alt="profile for ujwal at Japanese Language Stack Exchange, Q&amp;A for students, teachers, and linguists wanting to discuss the finer points of the Japanese language"
+                        title="profile for ujwal at Japanese Language Stack Exchange, Q&amp;A for students, teachers, and linguists wanting to discuss the finer points of the Japanese language"></a>
+            </div>
+        </h4>
+    </h3>
+    <script src="script.js"></script>
+<div class="friend-text">
+  me and my friend 
+  <a href="https://www.instagram.com/ishaanherehomie/" target="_blank" class="friend-link">
+    ishaan
+  </a>
+</div>
+<img src="image.jpg" alt="me and my friend ishaan" width="125">
+
+</body>
+
+</html>
